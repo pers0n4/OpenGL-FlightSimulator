@@ -1,4 +1,9 @@
 # OpenGL-FlightSimulator
+![](Media/1.png)
+- Model view(glOrtho)
+
+![](Media/2.png)
+- Simulation view(glPerspective)
 
 ## Control
 - Keyboard callback
